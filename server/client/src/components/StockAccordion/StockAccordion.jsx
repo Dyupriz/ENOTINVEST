@@ -317,7 +317,6 @@ function StockAccordion() {
   // Список всех акций
   // setInterval(() => {
   // useEffect(() => {
-  // console.log('ОЛЕГ ДЕРЖИ КОНСОЛЬ ЛОГ ❤️‍🔥');
   // axios
   //   .get(`${process.env.REACT_APP_API_URL}api/stocks/ru`)
   //   .then(({ data }) => {
@@ -506,7 +505,6 @@ function StockAccordion() {
       >
         <Grid
           item
-          // xs={12} sm={12} md={4} lg={4} xl={4}
         >
           <Search sx={{ display: 'inline-block' }}>
             <SearchIconWrapper>
@@ -537,7 +535,6 @@ function StockAccordion() {
 
         <Grid
           item
-          // xs={12} sm={12} md={4} lg={4} xl={4}
         >
           <FormControlLabel
             control={
